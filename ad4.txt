@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +kbfLTWGI8goGX3U8tIViA
+! Checksum: rBg4TL7yFOkVOpEo6kD6Gg
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201811211130
-! Last Modified: 2018年11月21日 11:30
+! Version: 201811282230
+! Last Modified: 2018年11月28日 22:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -309,7 +309,7 @@ news.baidu.com###women-picwall
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.BAIDU_CLB_AD
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.activity_iframe_container
 baidu.com##.ad-block-1
-50yxw.com,bookshi.com,cangku.in,cangku.moe,iwan.baidu.com,qq.com,qtv.com.cn,xinhuanet.com,zol.com.cn##.ad-box
+50yxw.com,cangku.in,cangku.moe,iwan.baidu.com,qq.com,qtv.com.cn,xinhuanet.com,zol.com.cn##.ad-box
 baidu.com##.ad-platform-tips
 baidu.com##.ad-taishan
 baidu.com##.ad-vip-close

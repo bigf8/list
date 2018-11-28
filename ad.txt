@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mu5KHAieSywwI3aNEVXskA
+! Checksum: BWx8sS4SRtVPf6pKzkZGag
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201811282130
-! Last Modified: 2018年11月28日 21:30
+! Version: 201811282230
+! Last Modified: 2018年11月28日 22:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -4426,7 +4426,7 @@ mg*.6park.com/img/$image
 ||beijing-air.com/images/a/j
 ||beiwo888.com/Runtime/js/
 ||bejson.com/*imgs/
-||bejson.com/apics1/layuiAdmin_
+||bejson.com/a1dpic/lay
 ||bendibao.com*/tuangou.gif
 ||bendibao.com/mo/adm_iframe.htm?
 ||bequge.com/images/content.js
@@ -4466,7 +4466,6 @@ mg*.6park.com/img/$image
 ||bjcathay.com/s?z=
 ||bjhockey.org/public/pc/video/test.mp4
 ||bjmama.net/a/spc_
-||bjxxw.com/tpIndex/?s=/home/index/ads/
 ||bk9gun.vpser.net^
 ||bkill.com/css/js/abcbl.js
 ||bkjia.com/bkjia/js/art_rightad
@@ -9201,7 +9200,7 @@ baofeng.com##.ad-bar-l
 baofeng.com##.ad-bar-r
 html-js.com##.ad-blank
 baidu.com##.ad-block-1
-50yxw.com,bookshi.com,cangku.in,cangku.moe,iwan.baidu.com,qq.com,qtv.com.cn,xinhuanet.com,zol.com.cn##.ad-box
+50yxw.com,cangku.in,cangku.moe,iwan.baidu.com,qq.com,qtv.com.cn,xinhuanet.com,zol.com.cn##.ad-box
 easou.com##.ad-charge
 newtalk.tw##.ad-container
 olevod.com##.ad-corner
@@ -10043,7 +10042,6 @@ haodou.com##.focus_img
 900.la##.font-ad
 se8u.cc##.footAdv
 880sy.com##.foot_gg
-bokerb.com##.foot_td_1
 yipee.cc##.footer-sidebar-container
 iciba.com##.footer_baidu
 yaolan.com##.footer_float_box
