@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ppydx1rCgxC3jVHQSGvQfQ
+! Checksum: nG3IpYVIogx1pDo2rgW4uQ
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201811291100
-! Last Modified: 2018年11月29日 11:00
+! Version: 201811291200
+! Last Modified: 2018年11月29日 12:00
 ! Homepage: https://adf.ming92.tk
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -611,7 +611,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~hao123.com
 ||mountain.zhidao.baidu.com^
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
-@@||libs.baidu.com^$domain=23wxx.com|m.23us.so|m.23zw.me|m.77nt.com|m.80txt.com|m.bichi.me|m.biquge.cm|m.biquge.info|m.biqugecom.com|m.biqukan.com|m.bxwx9.org|m.shuquge.com|m.wenxuem.com
+@@||libs.baidu.com^$domain=jianlaixiaoshuo.com|23wxx.com|m.23us.so|m.23zw.me|m.77nt.com|m.80txt.com|m.bichi.me|m.biquge.cm|m.biquge.info|m.biqugecom.com|m.biqukan.com|m.bxwx9.org|m.shuquge.com|m.wenxuem.com
 zhidao.baidu.com#@#.share-area
 baidu.com#@#.share-line
 baidu.com#@#.share-list
