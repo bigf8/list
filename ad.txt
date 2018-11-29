@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TRhVBlH48eJW9w27DJqMWA
+! Checksum: hLElGT2pBR85pZ1zShdhbg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201811290900
-! Last Modified: 2018年11月29日 09:00
+! Version: 201811291100
+! Last Modified: 2018年11月29日 11:00
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12974,6 +12974,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_left > [
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#div:not([id]) > style[id^="s-"] + style + div + div[id]
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#div:not([id]) > style[id^="s-"] + style + div[id]
+baidu.com##.opr-zhaopin-ad-ctn
+baidu.com##.wa-zp-exact-new-border
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > div
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > tbody
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > ul
