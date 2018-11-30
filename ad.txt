@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fxi5PTewGXA6sAUh3ragOw
+! Checksum: oceH37W+w7mOg7/08joYKQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201811301630
-! Last Modified: 2018年11月30日 16:30
+! Version: 201811301730
+! Last Modified: 2018年11月30日 17:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12839,7 +12839,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||sinaimg.cn/cj/deco/$script,domain=finance.sina.com.cn
 @@||sinaimg.cn/dy/deco/*/js/base.js
 @@||sinaimg.cn/dy/deco/*/js/require.js
-@@||sinaimg.cn/large/007hXDAOgy1fuwmyumrk2g30ka02in2s.gif$domain=rmdown.com
+@@||alicdn.com/img/ibank/2018/384/982/9460289483_1746120392.jpg$domain=rmdown.com
 @@||sinaimg.cn/unipro/pub/suda_m_v629.js$domain=video.sina.com.cn
 @@||sinaimg.cn^*/deco/*/sinaObj.js
 @@||sjsmitaa.org/bin/showads.
@@ -14775,8 +14775,7 @@ duanwenxue.com##.qgzdwx
 /\/videos\/other\/(.*?\.f4v)/$rewrite=/videos/othez/$1
 @@||da.mgtv.com/crossdomain.xml
 @@||da.mgtv.com/m5/page
-@@||livew.l.qq.com/livemsg?ty=web&az
-||livew.l.qq.com/livemsg?ty=web&ad$rewrite=/livemsg?ty=web&az
+||qq.com/proxyhttp$rewrite=/.
 ||web.da.mgtv.com/pc/player$rewrite=/m5/page
 ||web2.da.mgtv.com/pc/player$rewrite=/m5/page
 !#Sex8.cc
