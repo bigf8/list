@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oKqLaFNY4RpLVDh4ocOBfA
+! Checksum: VfmRVU769PXnrH5idkJKGg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201811301930
-! Last Modified: 2018年11月30日 19:30
+! Version: 201811302330
+! Last Modified: 2018年11月30日 23:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7396,8 +7396,11 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||diaoyu123.com/cpro/show.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+zuowen.com##.couplet_left
+zuowen.com##.couplet_right
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -12734,6 +12737,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 /\.js\?[a-z]+=[a-z]+$/$script,domain=00cha.com|2hanju.com|315hyw.com|aiyangedu.com|fujieace.com|iask.sina.com.cn|jandan.net|jintang114.org|juqingba.cn|jy135.com|makepolo.com|oh100.com|vs.cm|wayqq.cn|xiegw.cn|yuwenmi.com|zaojv.com
 jandan.net,jintang114.org,makepolo.com,wayqq.cn##iframe[src*="?"]
 ||a3.jandan.net^
+||a.diaoyu.cn^
 ###bd-hl-content
 ###container > #pic_container
 ###container > .item.title_normal
@@ -14460,7 +14464,6 @@ duanwenxue.com##.qgzdwx
 /\/videos\/other\/(.*?\.f4v)/$rewrite=/videos/othez/$1
 @@||da.mgtv.com/crossdomain.xml
 @@||da.mgtv.com/m5/page
-||qq.com/proxyhttp$rewrite=/.
 ||web.da.mgtv.com/pc/player$rewrite=/m5/page
 ||web2.da.mgtv.com/pc/player$rewrite=/m5/page
 !#Sex8.cc
