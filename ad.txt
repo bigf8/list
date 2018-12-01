@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sPoKpAb5Yjs1r2bxHq90Kw
+! Checksum: KdcPJQesogk44na/Kwo1Cg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201812011930
-! Last Modified: 2018年12月01日 19:30
+! Version: 201812012000
+! Last Modified: 2018年12月01日 20:00
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -4689,7 +4689,7 @@ mg*.6park.com/img/$image
 ||cidianwang.com/images/taobao/
 ||cidianwang.com/js/zdtop.js
 ||ciliba.org/Public/static/js/common-v2.js
-||cilimao.me/amaod/
+||cilimao.cc/amaod/
 ||cilook.net/cilookinc/isee5_950x60.gif
 ||citysbs.com/chongqing/*/1920x179-
 ||citysbs.com/no/*/1190x60-
@@ -11805,7 +11805,7 @@ acg12.com##div[class] > a[href^="http"]:not([href*="acg12.com"])
 r3sub.com##div[class] > a[href^="show.php?id="]
 bdimg.com,tieba.baidu.com,tieba.com##div[class][lgoinprompt="prompt"]
 cyol.com##div[class^="AD"]
-cilimao.me##div[class^="FixBanner"]
+cilimao.cc##div[class^="FixBanner"]
 ali213.net##div[class^="GG"]
 mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
 ~car.kdslife.com,enet.com.cn,fjsen.com,hupu.com,kdslife.com,~my.hupu.com,news.cnyes.com,pchome.net,rznews.cn##div[class^="ad"]
