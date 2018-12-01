@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +eWJrpM0p7t6AEIhN8Cc0w
+! Checksum: r4FaRuPC4YTfO5QlKPbZXg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812011030
-! Last Modified: 2018年12月01日 10:30
+! Version: 201812011200
+! Last Modified: 2018年12月01日 12:00
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -2576,7 +2576,6 @@ ubmcmm.baidustatic.com
 ||tinglian.com^
 ||tjgxzs.com^
 ||tjqonline.cn^
-||tk001.com^$third-party
 ||tkd777.cn^
 ||to8to.com^$third-party
 ||tongdejiayuan.com^
@@ -4191,7 +4190,6 @@ mg*.6park.com/img/$image
 ||btkat.com/style/l.js
 ||btkuai.org/js/ac
 ||btkuai.org/pingbi
-||btmee.net/static/img/tlad.gif
 ||btmule.org/Public/static/js/common.js
 ||btn.onlylady.com^
 ||btn.pchome.net^
@@ -8047,7 +8045,6 @@ yy.com###gg_right
 shouji56.com###gg_top_banner
 wenku.baidu.com###ggbtm-ads
 52pk.com###ggfloat
-btmee.net###ggg_tool_text
 china.com.cn###gggg
 discuss.com.hk###gid_group_restricted > .gid_group_title
 danyang.com###global-hd > div[align="center"]
@@ -11339,7 +11336,6 @@ iidvd.com##a[href="http://www.crc6789.com/iidvd.htm"]
 gaoqingkong.com##a[href="http://www.gaoqingkong.com/html/11243.html"]
 cnsat.net##a[href="http://www.sdhanrui.cn/"]
 wikdy.cn##a[href="http://www.tbb168.com"]
-btmee.net##a[href="http://www.tk001.com/?btmee"]
 ainuody.com##a[href="http://www.zhuzhuquan.com.cn"]
 jandan.net##a[href^="//api.jandan.net/money.php?"]
 sdgundam.cn##a[href^="/aclk/"]
