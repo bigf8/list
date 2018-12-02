@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RJUn9jKKszQuhvJPRLGfWg
+! Checksum: QEi1fYG43CATAVaHlknjTg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812030000
-! Last Modified: 2018年12月03日 00:00
+! Version: 201812030730
+! Last Modified: 2018年12月03日 07:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19791,7 +19791,6 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracking/epixels.
 /tracking/events?
 /tracking/fingerprint/*
-/tracking/getty/*
 /tracking/impression/*
 /tracking/index.
 /tracking/log.php?
@@ -23914,6 +23913,7 @@ _mongo_stats/
 ||affilizr.com^$third-party
 ||air360tracker.net^$third-party
 ||alkemics.com^$third-party
+||analytics-cdiscount.com^$third-party
 ||antvoice.com^$third-party
 ||atraxio.com^$third-party
 ||browsiprod.com^$third-party
@@ -24428,7 +24428,6 @@ _mongo_stats/
 ||tns-sifo.se^$third-party
 ||vastpaketet.se^$third-party
 ||webserviceaward.com^$third-party
-||worldoftulo.com^$third-party
 ||d-stats.com^$third-party
 ||tracker.stats.in.th^$third-party
 ||truehits.net^$third-party
@@ -31691,6 +31690,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||bolha.com/js/gemius_.js?
 @@||csfd.cz/log?
 @@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|sportrevue.cz|zive.cz
+@@||hlidacstatu.cz/scripts/highcharts-6/modules/heatmap.js
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
 @@||adobedtm.com^*/satelliteLib-$script,domain=elgiganten.dk
 @@||advertisers.dk/wp-content/uploads/*/google-analytics-$image,domain=advertisers.dk
@@ -31784,6 +31784,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||adobedtm.com^*/satelliteLib-$script,domain=laredoute.pl
 @@||akamaized.net^*/tracking/ninja.js$domain=olx.pl
 @@||gemius.pl/gstream.js
+@@||gminazamosc.pl/wp-content/plugins/wp-google-analytics-events/js/ga-scroll-events.js?
 @@||kropka.onet.pl^*/onet.js$domain=tvnwarszawa.pl
 @@||login.ingbank.pl^*/satelliteLib-$script
 @@||ninja.onap.io/ninja-cee.js$domain=olx.pl
