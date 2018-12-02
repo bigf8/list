@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: X6yFhaDqodS3b8Mj+bLT2w
+! Checksum: WMqgrxf+FNHXPXYCmuebOg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201812020930
-! Last Modified: 2018年12月02日 09:30
+! Version: 201812021000
+! Last Modified: 2018年12月02日 10:00
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7284,6 +7284,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+xitongcheng.com##.r_adv
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -13439,7 +13440,7 @@ dnvod.tv#?#[data-code] > [target="_blank"]
 ||dnvod.tv^*.gif$object-subrequest,domain=dnvod.tv
 ||dnvod.tv^*.jpg$object-subrequest,domain=dnvod.tv
 ||dnvod.tv^*/201$object-subrequest,domain=dnvod.tv
-||s1-a4.dnvod.tv^$domain=dnvod.tv
+||s1-a4.dnvod.tv^
 dnvod.tv###box
 dnvod.tv###msg_win
 dnvod.tv###msg_winw
