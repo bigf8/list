@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4xQ5Fgd2FE9t9Dj/lTJcXQ
+! Checksum: vxP52+QpQisJw/bAMZGojQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201812021900
-! Last Modified: 2018年12月02日 19:00
+! Version: 201812022200
+! Last Modified: 2018年12月02日 22:00
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -5719,7 +5719,6 @@ mg*.6park.com/img/$image
 ||lxting.com^
 ||lxty66.com/js/float.js
 ||ly.js.cn/adv/
-||ly6080.com.cn/ql.gif
 ||lyd.com.cn^*950-90.
 ||lysq.com/data/attachment/portal/
 ||lywww.com/data/js.php?id=
@@ -7281,6 +7280,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ly6080.com^$image
+||ly6080.com.cn^$image
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 china.cn##.lm_div
@@ -11949,6 +11950,8 @@ bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
+@@||ly6080.com^*/$image
+@@||ly6080.com.cn^*/$image
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
