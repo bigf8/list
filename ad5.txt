@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IJ/IRyw/wZuDRx+JIsrP2A
+! Checksum: ljde9lz/ddafHfnIU3KyaA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812042300
-! Last Modified: 2018年12月04日 23:00
+! Version: 201812050730
+! Last Modified: 2018年12月05日 07:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16441,6 +16441,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .au/t.ashx?
 .be/uts/
 .beacon.min.js
+.bmp?*&referrer=
 .cc/s.gif?
 .click/track?
 .cn/0.gif?
@@ -18134,6 +18135,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /ignition-one.js
 /image.articleview?
 /image.ng/*
+/images/a.gif?*=
 /images/mxl.gif?
 /images/uc.GIF?
 /imageTracking.
@@ -22176,7 +22178,6 @@ _mongo_stats/
 ||pleisty.com^$third-party
 ||plexop.com^$third-party
 ||plugin.ws^$third-party
-||plusgrade.com^$third-party
 ||plwosvr.net^$third-party
 ||pm0.net^$third-party
 ||pm14.com^$third-party
@@ -24134,6 +24135,7 @@ _mongo_stats/
 ||fortvision.com^$third-party
 ||hetchi.com^$third-party
 ||lead.im^$third-party
+||mimgoal.com^$third-party
 ||nepohita.com^$third-party
 ||ritogaga.com^$third-party
 ||gpr.hu^$third-party
@@ -24437,6 +24439,7 @@ _mongo_stats/
 ||contadorvisitasgratis.com^$third-party
 ||contadorweb.com^$third-party
 ||delidatax.net^$third-party
+||easysol.net^$third-party
 ||eresmas.net^$third-party
 ||estadisticasgratis.com^$third-party
 ||estadisticasgratis.es^$third-party
@@ -30636,6 +30639,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||tracker.azet.sk^
 ||abc.es/pixel/
 ||analytics.infobae.com^
+||analytics.redlink.com.ar^
 ||audiencies.ccma.cat^
 ||bankinter.com/res/img/documento_cargado.gif?
 ||coletor.terra.com^
@@ -30644,6 +30648,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||estadonline.publiguias.cl^
 ||g.siliconweek.es^
 ||hits.antena3.com^
+||mercadolibre.com/tracks^
 ||pixel.europapress.net^
 ||stats.milenio.com^
 ||t13.cl/hit/
@@ -31899,7 +31904,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||playty.com/bower_components/angulartics-google-analytics/dist/angulartics-ga.min.js
 @@||portalbici.es/lib/angulartics-google-analytics/dist/angulartics-ga.min.js
 @@||segundamano.mx^*/tealium.js
-@@||vodgc.net/js/genoa-event-tracking.min.js
+@@||vodgc.net^*/genoa-event-tracking.min.js
 @@||adobedtm.com^*/satelliteLib-$script,domain=elgiganten.se
 @@||burt.io^$script,domain=gp.se
 @@||google-analytics.com/analytics.js$domain=tradera.com|xxl.se
