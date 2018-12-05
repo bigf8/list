@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lJKjPuePuYDKYNQ8h+7xHg
+! Checksum: 8DoLtfnLV0EOGsKAmbMSJA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812051900
-! Last Modified: 2018年12月05日 19:00
+! Version: 201812051930
+! Last Modified: 2018年12月05日 19:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7407,6 +7407,7 @@ mg*.6park.com/img/$image
 ||sinaimg.cn/large/a561b538ly1fxukrsdmcoj20dw0j9wks.jpg
 ||csdnimg.cn/check-adblock/
 ||sobt8.org/Public/static/js/common.js
+||codeceo.com/images/*/beiqia
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 huya.com###ggcomment
@@ -12229,10 +12230,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||advert.kf5.com^
 @@||adx.yiche.com/cityindex.ashx
 @@||adx.yiche.com/ssp/echo/v1.0/en?*,*,*&cs=
-@@||afpeng.alimama.com^$domain=crecgec.com
 @@||airchina.com.cn/dynamicAd/
 @@||ak77now.pixnet.net^$generichide
-@@||alicdn.com/g/mm/afp-cdn/JS/k.js$domain=crecgec.com
 @@||alicdn.com/img/ibank/2018/384/982/9460289483_1746120392.jpg$domain=rmdown.com
 @@||alicdn.com/mm/tb-page-peel/
 @@||alimama.com^$domain=tanx.com
