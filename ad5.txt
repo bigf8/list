@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hRPBU+RpKOiYGD8faEZdJw
+! Checksum: He7jxHOqywP4fa7AbtC2Mg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812052330
-! Last Modified: 2018年12月05日 23:30
+! Version: 201812060730
+! Last Modified: 2018年12月06日 07:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17158,6 +17158,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /bidiq.
 /bin/reff.php
 /bin/stats?
+/bipixel/*
 /bitrix/spread.php?
 /bizo.js
 /bk-coretag.js
@@ -17784,6 +17785,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /fbcounter/*
 /fbevents-amd.js
 /fbpixel.
+/fcp.gif?
 /fe/track/*
 /federated-analytics.
 /figanalytics.
@@ -19698,6 +19700,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /track?event=
 /track?name=
 /track?referer=
+/track?ts=*&domain=
 /track?wm_
 /track_clicks_
 /track_event.
@@ -20434,6 +20437,7 @@ _ga_code.
 _ga_tag.
 _ga_tracker.
 _gaTrack.js
+_GCM.min.js
 _global_analytics_
 _google_analytics.
 _googleAnalytics.
@@ -26662,6 +26666,7 @@ _mongo_stats/
 ||pixel.nbsp.de^
 ||plista.com/getuid?
 ||plista.com/iframeShowItem.php
+||px.staticfiles.at^
 ||pyroactive.de/counter/
 ||rc.aol.de^*/getrcmd.js
 ||retrack.q-divisioncdn.de^
@@ -30098,6 +30103,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||tracking.beilagen-prospekte.de^
 ||tracking.finanzen.net^
 ||tracking.hrs.de^
+||tracking.krone.at^
 ||tracking.kurier.at^
 ||tracking.mobile.de^
 ||tracking.netbank.de^
