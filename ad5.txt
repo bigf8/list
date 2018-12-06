@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eSPfGLFG8q0EpSgSqR59yg
+! Checksum: dEeEO/K/BChOsgk/e/nwTg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812062130
-! Last Modified: 2018年12月06日 21:30
+! Version: 201812070730
+! Last Modified: 2018年12月07日 07:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17388,6 +17388,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /cm?ci=*&tid=
 /cm?tid=
 /cmarketing.countus.js
+/cmd_track?
 /cms.gif?
 /cms/stats/*
 /cmslog.dll?
@@ -19437,6 +19438,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /static-tracking/*$script
 /static/tracking/*
 /statics/analytics.js?
+/statistic/*&data=
 /statistics-desktop.js
 /statistics-page-view/*
 /statistics.asp?
@@ -19666,6 +19668,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /track.png?
 /track.srv.
 /track/*&CheckCookieId=
+/track/*&event=
 /track/*?rnd=0.$image
 /track/?site
 /track/a.gif?
@@ -19869,6 +19872,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracking_headerJS_
 /tracking_id_
 /tracking_iframe.
+/tracking_info.gif?
 /tracking_link_cookie.
 /tracking_NodeheaderJS.
 /tracking_partenaire.
@@ -20373,6 +20377,7 @@ weibo.com##.apps_PCD_reco_detail_right
 ?bstat=
 ?criteoTrack=
 ?event=*&ts=
+?event=advert_
 ?event=General.track
 ?event=log&
 ?event=performancelogger:
@@ -20496,6 +20501,7 @@ _tracker.js.
 _tracker.js?
 _tracker.php?*http
 _tracker_min.
+_tracking1.gif?
 _traf.ips?
 _trafficTracking.
 _trans_1px.
@@ -24247,6 +24253,7 @@ _mongo_stats/
 ||sibulla.com^$third-party
 ||smartnews-ads.com^$third-party
 ||socdm.com^$third-party
+||speee-ad.jp^$third-party
 ||tgknt.com^$third-party
 ||trackfeed.com^$third-party
 ||ukw.jp^$third-party
@@ -24487,12 +24494,15 @@ _mongo_stats/
 ||sitetistik.com^$third-party
 ||webservis.gen.tr^$third-party
 ||zirve100.com^$third-party
+||getaim.info^$third-party
 ||holder.com.ua^$third-party
 ||mediatraffic.com.ua^$third-party
 ||mycounter.com.ua^$third-party
 ||mycounter.ua^$third-party
 ||uapoisk.net^$third-party
 ||weblog.com.ua^$third-party
+||amcdn.vn^$third-party
+||contineljs.com^$third-party
 ||gostats.vn^$third-party
 !-----------------Third-party tracking services-----------------!
 |http://l2.io/ip.js$third-party
@@ -27046,6 +27056,7 @@ _mongo_stats/
 ||otoshiana.com/ufo/
 ||rd.rakuten.co.jp^
 ||seesaa.jp/ot_square.pl?
+||speee-ad.akamaized.net^
 ||trck.dlpo.jp^
 ||userdive.com^$third-party
 ||webtracker.jp^$third-party
@@ -28326,6 +28337,10 @@ _mongo_stats/
 ||linkbucks.com/clean.aspx?task=record$image
 ||linkbucks.com/track/
 ||linkedin.com/analytics/
+||linkedin.com/platform-telemetry/
+||linkedin.com^*/collect
+||linkedin.com^*/track
+||linkedin.com^*/tracking
 ||linkpuls.idg.no^
 ||linuxtoday.com/hqxapi/
 ||lipsy.co.uk/_assets/images/skin/tracking/
