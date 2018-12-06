@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OVEtSO7fjm9mpaK5FWRLaQ
+! Checksum: TKe7+IFDJomqD+qzHqrGAA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201812061130
-! Last Modified: 2018年12月06日 11:30
+! Version: 201812061230
+! Last Modified: 2018年12月06日 12:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7721,6 +7721,7 @@ mg*.6park.com/img/$image
 ||chinasexq.com/js/tpgg
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+dysfz.vip##.bar > .shadow > IMG
 it1352.com##A[href^="http"]:not([href*="it1352."]) > IMG
 codejie.net##.s-ad-tit-box
 codejie.net##.h--banner
@@ -7965,7 +7966,6 @@ firefoxchina.cn###advBlock
 nnfcxx.com###adv_3
 ifeng.com,qq.com###advert
 anjian.com,qq.com###advertisement
-cpplay.com###adxa
 104.com.tw###aidma-job
 104.com.tw###aidma_128
 104.com.tw###aidma_588
@@ -8572,7 +8572,6 @@ nick18.com,niko18.com###mov > .content
 gd163.cn,itavcn.com,jmnews.com.cn,xt700.com###msg_win
 myhotboy.com###mu
 yahoo.com###my-adsMBAR
-cpplay.com###myFocus336
 pianyuan.net###myModal
 qqjia.com###myadsL
 javjunkies.com###naked-ad
@@ -10212,7 +10211,6 @@ iqiyi.com##.headerLink02
 seehd.so##.header_wrap + .tac + table[align="center"]
 aguitar.cn,guitarchina.com##.headerbanner
 aguitar.cn##.headerbanner2
-cpplay.com##.hei-hei + table[width="960"]
 ks.js.cn##.height200
 ks.js.cn##.height60
 ks.js.cn##.height70
@@ -10995,7 +10993,6 @@ baidu.com##.sf-wrap > .c-back + div[id]:last-child
 baidu.com##.sfc-image-content-adrootnew
 baidu.com##.sfc-image-content-adtext
 baidu.com##.sfc-image-content-waterfall-item > div:not([class]) > .sfc-image-content-cell
-cctry.com##.sftop
 wbzol.com##.sg
 ottawazine.com##.sgpb-popup-overlay
 pcsoft.com.cn##.shang11-top
