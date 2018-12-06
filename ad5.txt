@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cwwbeIEAbQunb/5ZKyBbQg
+! Checksum: GDQpiSKPCepnpa5xNaJK0w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812061530
-! Last Modified: 2018年12月06日 15:30
+! Version: 201812061600
+! Last Modified: 2018年12月06日 16:00
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16786,6 +16786,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /aggbug.aspx?
 /agof/iam-
 /agwebtracking_
+/aicon_track.
 /aimp.php?
 /ajax-hits-counter/*
 /ajax/analytics/*
@@ -20292,6 +20293,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /ybn_pixel/*
 /yell-analytics-
 /yell-analytics.
+/yna_stat.
 /youtube-track-event_
 /ystat.do
 /ystat.js
@@ -24240,7 +24242,9 @@ _mongo_stats/
 ||ziyu.net^$third-party
 ||adpick.co.kr^$third-party
 ||adtive.com^$third-party
+||aicontents.net^$third-party
 ||contentsfeed.com^$third-party
+||dawin.tv^$third-party
 ||logger.co.kr^$third-party
 ||oevery.com^$third-party
 ||tenping.kr^$third-party
@@ -27037,6 +27041,7 @@ _mongo_stats/
 ||115.84.165.13/wlo/$domain=~seul-go.ip
 ||180.70.93.115/ndmclick/$domain=~daum.ip
 ||cafe24.com/weblog.js
+||log.cizion.com^
 ||log2.adop.cc^
 ||recobell.io/rest/logs?
 ||tracking.adweb.co.kr^$third-party
@@ -29654,6 +29659,7 @@ _mongo_stats/
 ||yimg.com^*/swfproxy-$object
 ||yimg.com^*/yabcs.js
 ||yimg.com^*/ywa.js
+||yna.co.kr^*/eas.
 ||ynuf.alibaba.com^
 ||yobt.tv/js/timerotation*.js
 ||yoox.com^*/yoox/ga.js
