@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dkhvoIXY2GcacqwGqMNeOg
+! Checksum: qgbeet7HUMebxIc6Sa3Ebw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201812071130
-! Last Modified: 2018年12月07日 11:30
+! Version: 201812071230
+! Last Modified: 2018年12月07日 12:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7297,6 +7297,7 @@ mg*.6park.com/img/$image
 ||cidianwang.com/js/right
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cmhello.com##.gpost-above
 wendangwang.com###divActivity
 maxthon.cn###festival-fix-bottom
 maxthon.cn###festival-rain-wrapper
@@ -11250,7 +11251,6 @@ lifanmoe.bid##a[href^="http"]:not([href*="lifanmoe."]) > img[src*=".sinaimg."]
 xiaoheizy.com##a[href^="http"]:not([href*="xiaoheizy.com"]) > img
 107cine.com##a[href^="http://107cine.com/ads/"]
 m.nownews.com##a[href^="http://ad1.nownews.com"]
-chacuo.net##a[href^="http://affiliate.lufax."]
 wenxuecity.com##a[href^="http://bbs.wenxuecity.com/bbs/advpost/"]
 big5.china.com.cn##a[href^="http://big5.china.com.cn/gate/big5/"]:not([href*="/science."])
 chinaz.com,cnbeta.com,oschina.net##a[href^="http://click.aliyun.com/"]
