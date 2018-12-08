@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 79z+O/VYM3vaUh5RJs3zVA
+! Checksum: 7QKcQdVUoT+1HCzq+2Eg+A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812082330
-! Last Modified: 2018年12月08日 23:30
+! Version: 201812090730
+! Last Modified: 2018年12月09日 07:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16792,6 +16792,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /advstats/*
 /adwords-conversion-tracking.
 /adwords-tracker.
+/adx/*.gifx?
 /adx_remote.
 /aegis_tracking.
 /aff_i?offer_id=
@@ -18664,6 +18665,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /nbc-stats/*
 /ncj-pixel.js
 /ncp/checkBrowser?
+/nct.php?nid=
 /nedstat.
 /neilson.js
 /neocounter.
@@ -24280,6 +24282,7 @@ _mongo_stats/
 ||pagoda56.com^$third-party
 ||polymorphicads.jp^$third-party
 ||r-ad.ne.jp^$third-party
+||rentracks.jp^$third-party
 ||research-artisan.com^$third-party
 ||rtoaster.jp^$third-party
 ||sibulla.com^$third-party
@@ -24410,6 +24413,7 @@ _mongo_stats/
 ||jetcounter.ru^$third-party
 ||k3dqv.ru^$third-party
 ||kmindex.ru^$third-party
+||leadslabpixels.net^$third-party
 ||lentainform.com^$third-party
 ||listtop.ru^$third-party
 ||livetex.ru^$third-party
@@ -24440,6 +24444,7 @@ _mongo_stats/
 ||rutarget.ru^$third-party
 ||sarov.ws^$third-party
 ||sas.com^$third-party
+||semantiqo.com^$third-party
 ||sensor.org.ua^$third-party
 ||seo-master.net^$third-party
 ||serating.ru^$third-party
@@ -24452,6 +24457,7 @@ _mongo_stats/
 ||targetix.net^$third-party
 ||tbex.ru^$third-party
 ||tds.io^$third-party
+||tnative.ru^$third-party
 ||toptracker.ru^$third-party
 ||tpm.pw^$third-party
 ||track.cooster.ru^
