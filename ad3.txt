@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZE/6tAPwbpSoSDINHlB58A
+! Checksum: sX86QkSctUuCGd0o4FP4Hw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201812091830
-! Last Modified: 2018年12月09日 18:30
+! Version: 201812091930
+! Last Modified: 2018年12月09日 19:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -3280,7 +3280,6 @@ mg*.6park.com/img/$image
 ||258zb.com/jsData/users.aspx
 ||265la.com/html/
 ||268de.com/js/
-||289.com/cqws/images/cqws-img.jpg
 ||28hse.com/adsman/www/images/
 ||2btu.com/gg.jpg
 ||2ccc.com/images/aobi.gif
@@ -4301,7 +4300,6 @@ mg*.6park.com/img/$image
 ||cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654.jpg
 ||cnblogs.com/group/C1*-T2
 ||cnblogs.com/units/
-||cncrk.com^*rjbz.js
 ||cndzys.com/huanlian/
 ||cnfol.com/f=ud/Js/Ad
 ||cnfol.com/tui/
@@ -7301,6 +7299,7 @@ mg*.6park.com/img/$image
 ||win2008.info/gongyi.gif
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+tiexue.net##BODY > DIV[onclick]
 cbber.com##DIV[style$=":0px;top:200px;z-index:9999;"]
 mydrivers.com##DIV[style^="position:fixed;left:50%;bottom:200px;"]
 ez3c.tw##.popup_bottom_block
