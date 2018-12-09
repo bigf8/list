@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SBHJ4YFOkjupevhucNgliw
+! Checksum: tNaMvWzUAalbSmC2YFPj1Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812091230
-! Last Modified: 2018年12月09日 12:30
+! Version: 201812091300
+! Last Modified: 2018年12月09日 13:00
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -4429,7 +4429,6 @@ mg*.6park.com/img/$image
 ||cnmo-img.com.cn/oddjs/
 ||cnmoad.com/wp-content/uploads/*_banner.
 ||cnmysoft.com/images/logo02.png
-||cnnb.com.cn/images/14ny_1.gif
 ||cnool.net/AdShowCache?
 ||cnpingpang.com/banner/
 ||cnpingpang.com/bbs/UploadFile/2014-11/20141113852238131.jpg
@@ -4479,7 +4478,6 @@ mg*.6park.com/img/$image
 ||cpnn.com.cn/cpnn_images/diangong.gif
 ||cpplay.com/inc/
 ||cq.cm/temp/201
-||cqfishing.net/data/attachment/portal/
 ||cqvip.com/viewserver/ViewAD
 ||cr173.com/js/
 ||cr173.com/show/
@@ -12090,6 +12088,7 @@ i-cable.com#@#.video_ad
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+cw.com.tw#@#.adActive
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
@@ -26534,7 +26533,6 @@ _mongo_stats/
 ||vooxe.com/analytics.js
 ||voss.collegehumor.com^
 ||voxmedia.com/beacon-min.js
-||voxmedia.com/pickup.js
 ||vpoweb.com/counter.php?
 ||vra.outbrain.com^
 ||vrp.outbrain.com^
@@ -29591,7 +29589,6 @@ _mongo_stats/
 ||vodpod.com/stats/
 ||vogue.co.uk/_/logic/statistics.js
 ||votigo.com/contests/t/
-||voxmedia.com/needle?
 ||voyages-sncf.com^*/vsca.js
 ||voyeurhit.com/js/a2210.js
 ||vs.target.com^
@@ -31756,6 +31753,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||ywxi.net/meter/produkte.web.de/$image,domain=web.de
 @@||zdf.de/zdf/flash/eplayer/player.swf?*/cgi-bin/ivw/
 @@||zeit.de/piwik/piwik.js$domain=schach.zeit.de
+@@||abtasty.com/datacollectHeatmap.php$xmlhttprequest,domain=cdiscount.com
 @@||actiris.be/urchin.js
 @@||actiris.be^*/urchin.js
 @@||adobedtm.com^*/satelliteLib-$script,domain=icimusique.ca|laredoute.be|laredoute.ch|laredoute.fr|nrj.fr|tou.tv
