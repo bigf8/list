@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4PHWejy++SGSGGJ7ls8rbw
+! Checksum: SBHJ4YFOkjupevhucNgliw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812091200
-! Last Modified: 2018年12月09日 12:00
+! Version: 201812091230
+! Last Modified: 2018年12月09日 12:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18475,6 +18475,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /logAdv.
 /logaholictracker.
 /LogAnalysisTracker/*
+/logAutoMicroConversion?
 /logclick.
 /logcollect.
 /logcollect_
@@ -18484,6 +18485,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /logduration/*
 /logevent.action?
 /logEvent?
+/logExecutionStats?
 /logextrastats.
 /logger.ashx?
 /logger.dll/*
@@ -31424,7 +31426,6 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||ru4.com/wsb/$script,domain=chase.com
 @@||runnr.in/assets/tracking-$script,stylesheet,~third-party
 @@||s.skimresources.com^$script,domain=slate.com
-@@||s.youtube.com/api/stats/playback?$image,object-subrequest
 @@||safelinkwireless.com/enrollment/*/GoogleAnalytics.js
 @@||sahibinden.com/assets/analytics*.js$script
 @@||samepage.io/assets/lib/google-analytics/GoogleAnalytics.js?
@@ -31618,6 +31619,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||ynetnews.com/Common/App/Video/Gemius/gstream.js
 @@||youbora.com/*/js/adapters/jwplayer$script
 @@||youtube.com/api/analytics/$~third-party
+@@||youtube.com/api/stats/playback?$image,object-subrequest
 @@||youtube.com/api/stats/watchtime?$image,domain=youtube.com
 @@||zappos.com/js/trackingPixel/mercentTracker.js
 @@||zillowstatic.com/c/*/linktrack.js$domain=zillow.com
