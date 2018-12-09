@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: S5CsJW3M5lWWWMhzyj3XiQ
+! Checksum: Gww8REg8vXViVchOQAfLIQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812091500
-! Last Modified: 2018年12月09日 15:00
+! Version: 201812091530
+! Last Modified: 2018年12月09日 15:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18565,6 +18565,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /mdwtc/click_thru/*
 /measure/spring.
 /measure/visit/*
+/measurement/access/contents?
+/measurementBeacon.
 /media_viewed_tracking.
 /medialaanUniversalTracker.
 /mediametrie.js
@@ -19662,6 +19664,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /timeslog.
 /timestrend_
 /tiwik.
+/tjp_beacon.
 /tmpstats.gif?
 /tmv11.
 /tnc.js?h=
@@ -20362,6 +20365,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /zanox.js
 /zdgurgler.min.js
 /zemtracker.
+/zero.gif?*&uid=
 /zig.js
 /zig_c.min.js
 /zonapixel.
@@ -25403,6 +25407,7 @@ _mongo_stats/
 ||followistic.com/widget/stat/
 ||footballmedia.com/tracking/
 ||forms.aweber.com^*/displays.htm?id=
+||fourmtagservices.appspot.com^
 ||foxcontent.com/tracking/
 ||freecurrencyrates.com/statgif.
 ||freedom.com^*/analytic/
@@ -30633,6 +30638,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||kropka.onet.pl^
 ||mklik.gazeta.pl^
 ||nasza-klasa.pl^*/pp_gemius
+||p.gazeta.pl^
 ||rek.www.wp.pl^
 ||savecart.pl/d/
 ||squid.gazeta.pl/bdtrck/
