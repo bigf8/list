@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ev5IfwO4TnE1ymCXM93x2g
+! Checksum: ba4a4GS79fdMUR9sPTZQRg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812102330
-! Last Modified: 2018年12月10日 23:30
+! Version: 201812110730
+! Last Modified: 2018年12月11日 07:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16688,6 +16688,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /?livehit=
 /?mob.ct=
 /?record&key=
+/__analytics/*
 /__dam.gif?
 /__ssobj/core.js
 /__ssobj/sync?$image
@@ -19034,6 +19035,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /plugins/visitors-traffic-
 /plugins/wordfence/visitor.php?
 /plzcrawlme.js
+/pm/pixel.
 /PmsPixel?
 /pmspxl.
 /point_roll.
@@ -22723,6 +22725,7 @@ _mongo_stats/
 ||tag4arm.com^$third-party
 ||tagcommander.com^$third-party
 ||tagifydiageo.com^$third-party
+||tagmngrs.com^$third-party
 ||tagsrvcs.com^$third-party
 ||tagtray.com/api^$third-party
 ||tamgrt.com^$third-party
@@ -27401,7 +27404,6 @@ _mongo_stats/
 ||a.jango.com^
 ||a7.org/infol.php?
 ||aa.avvo.com^
-||aargauerzeitung.ch/__analytics/
 ||aax-us-iad.amazon.com^
 ||abc.net.au/counters/
 ||abc.net.au^*/stats/
