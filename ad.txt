@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NEtk+Lpe2MVW61mPZHat6Q
+! Checksum: ESLllCbFgOHSIi4LUjF26g
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201812101900
-! Last Modified: 2018年12月10日 19:00
+! Version: 201812101930
+! Last Modified: 2018年12月10日 19:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7732,6 +7732,9 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||love201810.com/Runtime/js/
+||sexbus.cc/gg.
+||jsdelivr.net/gh/cdnjsdelivr001/182cdn*.js
+||sinaimg.cn^$domain=728hs.com
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 cncrk.com##.dxzq
@@ -14997,6 +15000,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||wl.jd.com/wl.js
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
+@@||appledaily.com/js/nxm_
 ||hjfile.cn/analytics/site/TrackEvent.js
 ! EasyList Lite
 dm5.com###a1
