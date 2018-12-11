@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8fdofEkIH4BKTwFoIg0QOw
+! Checksum: PHgS2eeJVZEV6qMfY+gDDA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201812111000
-! Last Modified: 2018年12月11日 10:00
+! Version: 201812111100
+! Last Modified: 2018年12月11日 11:00
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -15777,6 +15777,7 @@ _box_ad_
 ||chinaacc.com/lamu/*dl-
 ||chinaacc.com/lamu/*piao
 !------------------------Specific element hiding rules------------------------!
+download.csdn.net##.quake-slider
 china.cn##.ltp_box
 qidian.com##div[style="background: rgba(0,0,0,0.4);position: fixed;left:0;right:0;top:0;bottom:0;z-index:9999;"]
 qidian.com##div[style^="width: 426px; height: 644px; background:"]
@@ -16347,7 +16348,7 @@ crsky.com##a[href^="http://count."][href$=".exe"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"] + .bg + img
 163.com,~love.163.com##a[href^="http://love.163.com/"]
-ltn.com.tw##a[href^="https://draw.ltn.com.tw/"]
+ltn.com.tw##A[href*="draw.ltn.com.tw"]
 baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
 baijiahao.baidu.com,feed.baidu.com##body > div[id$="-container"]:last-child
 cnbeta.com#?#div[style^="display:block !important;"]
