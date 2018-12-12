@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1mb39+s0ikqBS/6CTJRavA
+! Checksum: MlABhCqpmxRcsqyumdK7hw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201812121430
-! Last Modified: 2018年12月12日 14:30
+! Version: 201812121630
+! Last Modified: 2018年12月12日 16:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7310,6 +7310,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||qq.com/proxyhttp|
+||jxnews.com.cn/assets/js/dspshow.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -15347,7 +15348,7 @@ _box_ad_
 ||qq.com/inc/utf8/nav/ad.htm
 ||gtimg.com/finance/js/st/p/cms/ce56e2f3303d17b6.js
 ||gtimg.com/finance/js/st/p/quotpage/maxcard_
-||med66.com/lamu/p-ad-
+||med66.com/lamu/
 ||51cto.com/edu/blog/*box.js
 ||taisha.org/statics/js/pc2.0/common/form.bottom.
 ||sohu.com/os/text/focus?
@@ -15356,6 +15357,9 @@ _box_ad_
 ||chinaacc.com/lamu/*dl-
 ||chinaacc.com/lamu/*piao
 !------------------------Specific element hiding rules------------------------!
+liepin.com##DIV[id^="nodetpl_g_"]
+med66.com##.coach_pic
+kekenet.com###bottomlink
 download.csdn.net##.quake-slider
 china.cn##.ltp_box
 qidian.com##div[style="background: rgba(0,0,0,0.4);position: fixed;left:0;right:0;top:0;bottom:0;z-index:9999;"]
