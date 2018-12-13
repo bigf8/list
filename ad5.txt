@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XpT2PDj5PabQZe2Bv3Jx7Q
+! Checksum: d7fX3P2y/pD5FYS3BpjQWA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812131730
-! Last Modified: 2018年12月13日 17:30
+! Version: 201812131800
+! Last Modified: 2018年12月13日 18:00
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -11426,7 +11426,7 @@ cnbeta.com##a[href^="http://www.dangbei.com/"]
 win007.com##a[href^="http://www.edewin.com/"]
 loldk.com##a[href^="http://www.esportsclub.cn/home/"]
 hmog.me##a[href^="http://www.masadora.net/"]
-58.com##a[href^="http://www.to8to.com/"]
+58.com##A[href*="to8to.com"]
 6park.com##a[href^="http://www.vava8.com"]
 dy2018.com,xiaopian.com##a[href^="http://www.xiacai.com/"]
 muchong.com##a[href^="http://www.zhuanyejun.com/"]
