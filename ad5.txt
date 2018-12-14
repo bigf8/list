@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2VT6p/Sv8qYimBxLN2YlWQ
+! Checksum: SugLn1ASbZ6QAqMkI7V7Aw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812142330
-! Last Modified: 2018年12月14日 23:30
+! Version: 201812150730
+! Last Modified: 2018年12月15日 07:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16739,6 +16739,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /__utm.js
 /__varnish_geoip
 /__wsm.gif
+/_bm/abd-
 /_bm/bd-
 /_dts.gif?
 /_lib/ga.js
@@ -17266,10 +17267,12 @@ weibo.com##.apps_PCD_reco_detail_right
 /bm-analytics-trk.js
 /bm-analytics/*
 /bm-bam-trk.
+/bms-analytics.
 /bn/tracker/*
 /boomerang-minified-
 /boomerang.js
 /boomLogger.
+/boomr.js
 /boost_stats.
 /botd.gif?
 /bounce_user_tracking-
@@ -18128,6 +18131,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /googleanalyze1.
 /googleanalyze2.
 /googletagmanager_backend.js
+/googleTagManagerTrackEvent.
 /googletrack.js
 /googleTracker.
 /googletracker/*
@@ -19112,6 +19116,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /ptmd?t=
 /ptrack.
 /pub/as?_ri_=$image
+/pub/imp?
 /pubfooter/js/tracking-
 /pubimppixel/*
 /public/analytics.js
@@ -22449,6 +22454,7 @@ _mongo_stats/
 ||researchnow.co.uk^$third-party
 ||reson8.com^$third-party
 ||responsetap.com^$third-party
+||resulticks.com^$third-party
 ||retags.us^$third-party
 ||retargetly.com^$third-party
 ||retargettracker.com^$third-party
@@ -22588,6 +22594,7 @@ _mongo_stats/
 ||silvergamed.com^$third-party
 ||silverpop.com^$third-party
 ||silverpush.co^$third-party
+||simility.com^$third-party
 ||simpleanalytics.io^$third-party
 ||simpleheatmaps.com^$third-party
 ||simplehitcounter.com^$third-party
@@ -22635,6 +22642,7 @@ _mongo_stats/
 ||smileyhost.net^$third-party
 ||smrk.io^$third-party
 ||smrtlnks.com^$third-party
+||snapdeal.biz^$third-party
 ||sniperlog.ru^$third-party
 ||sniphub.com^$third-party
 ||snoobi.com^$third-party
@@ -28121,6 +28129,7 @@ _mongo_stats/
 ||flipboard.com/usage?
 ||flipkart.com/ajaxlog/visitIdlog?
 ||flipkart.com/bbeacon.php?
+||flipkart.com^*/collector/
 ||flixist.com/img2.phtml
 ||flixster.com^*/pixels?
 ||fls-*.amazon.*%
@@ -29523,6 +29532,7 @@ _mongo_stats/
 ||tracker.redditmedia.com^
 ||tracker.revip.info^
 ||tracker.secretescapes.com^
+||tracker.shopclues.com^
 ||tracker.uprinting.com^
 ||tracker.washtimes.com^
 ||tracker.wordstream.com^
