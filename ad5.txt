@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9mjqF9OCEP86hR6SGfa3zw
+! Checksum: jCmPWqpy23zHMCu8d+pzEQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812152000
-! Last Modified: 2018年12月15日 20:00
+! Version: 201812152130
+! Last Modified: 2018年12月15日 21:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19135,6 +19135,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /pv.gif?1=
 /pv.gif?url
 /pv.txt?
+/pv/?aid=
 /pv/code.asp?
 /pv/new?
 /pv?fe=*&elg=
@@ -22499,6 +22500,7 @@ _mongo_stats/
 ||roitesting.com^$third-party
 ||roivista.com^$third-party
 ||rollingcounters.com^$third-party
+||roosterfirework.com^$third-party
 ||rpdtrk.com^$third-party
 ||rqtrk.eu^$third-party
 ||rrimpl.com^$third-party
@@ -28525,6 +28527,7 @@ _mongo_stats/
 ||livesupport.zol.co.zw/image_tracker.php?
 ||lm.pcworld.com/db/*/1.gif
 ||loc.gov/js/ga.js
+||local.ch/track/
 ||localads-statistics.maps.me^
 ||localmonero.co/static/ga.js
 ||log.data.disney.com^
@@ -30201,6 +30204,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||merkur.de/connector.php?
 ||mikrocontroller.net^*/count_view/
 ||mm.welt.de^
+||mms.blick.ch^
 ||mobilcom-debitel.de/track/
 ||mopo.de/uid/
 ||motor-talk.de/track
@@ -30309,12 +30313,14 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||ts.otto.de^
 ||ts.rtl.de^
 ||tvcommunity.at/filmpicture.aspx?count=1&
+||twch.20min.ch^
 ||ui-portal.de/brbtpixel/
 ||unser-star-fuer-oslo.de^*/stats.php
 ||vfd2dyn.vodafone.de^
 ||videovalis.tv/tracking/
 ||vip.de^*/tracking.js
 ||viviano.de/cgi-bin/stat_gateway.cgi?
+||vv.ricardo.ch^
 ||wdm.map24.com^
 ||web-track.telekom-dienste.de^
 ||web.de/ivw/cp/
