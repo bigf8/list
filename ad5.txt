@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9zWsA5OrRhgGcFtpZ028GA
+! Checksum: +1J+CYp6I+NcdeAeqvUsEg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812152200
-! Last Modified: 2018年12月15日 22:00
+! Version: 201812152330
+! Last Modified: 2018年12月15日 23:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19772,6 +19772,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /toplytics.js
 /tops-counter?
 /touchclarity/*
+/tp.gif?
 /tpix.gif?
 /tPx.gif?
 /tr.gif?
@@ -30116,6 +30117,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||citybeat.de/include/cbtracker.
 ||comdirect.de/ccf/img/ecrm2.gif?
 ||commerzbank.de/companion/cnt.php?
+||comparis.ch^*/Tracking/
 ||computerbase.de/api/stats?
 ||computerbild.de/images/pic.gif?
 ||count.merian.de^
@@ -30274,7 +30276,9 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||spiegel.de^*/statistic/
 ||sportal.de/js/cf.analytics.js
 ||stargate-planet.de^*counter*/c$image,script
+||statistics.raiffeisen.ch^
 ||statistics.riskommunal.net^
+||stats.autoscout24.ch^
 ||stats.bmw.de^
 ||stats.daserste.de^
 ||stats01.20min.ch^
