@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aBMwDnD/Z9n69kNbnmj2zQ
+! Checksum: +KioQIFU5EpQwYqA2CdhxQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201812161330
-! Last Modified: 2018年12月16日 13:30
+! Version: 201812162030
+! Last Modified: 2018年12月16日 20:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -443,6 +443,7 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+/wap/js/gg/*
 -880-80-4.jpg
 .bid/ads/
 .cc/js/ads/
@@ -7143,7 +7144,6 @@ mg*.6park.com/img/$image
 ||tmbbs.com/data/attachment/portal/*.swf
 ||to8to.com/api/ggdata.
 ||tom.com/*TomFlashAd
-||tom012.com/js/gg/
 ||tonnn.com/promotion2/*.js
 ||topthink.com/api/basic/
 ||torrentkitty.tv/images/vpn.gif
@@ -7750,6 +7750,7 @@ mg*.6park.com/img/$image
 |http*://$script,third-party,domain=cilimao.cc
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+1010jiajiao.com##.bdgg
 cnfol.com##.wid600Ad
 cnfol.com##.Ad310
 cnfol.com##.wid325AdBox
@@ -15056,6 +15057,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
+@@||cnzz.com/q_stat.php$domain=qd.alibaba.com
 ! EasyList Lite
 /728_90.
 ###TopAdvert
