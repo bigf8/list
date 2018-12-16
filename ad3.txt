@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: W0UF46uNDXfVD4I5sgckSA
+! Checksum: sPCh55fgKg2MK6NZswdR+Q
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201812162030
-! Last Modified: 2018年12月16日 20:30
+! Version: 201812162130
+! Last Modified: 2018年12月16日 21:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -4230,7 +4230,6 @@ mg*.6park.com/img/$image
 ||chinacar.com.cn/Public/index/images/banner_
 ||chinachugui.com/jsfiles/aods/
 ||chinaconcrete.cn/ggImg/
-||chinadaily.com.cn/micro-reading/dzh/bd-taofang.gif
 ||chinafpd.net/js/2012-10/
 ||chinaiiss.com/attachment/linkimg/201306/19/142826_845.jpg
 ||chinaiiss.com/js/float.js
@@ -7317,6 +7316,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 |http*://$script,third-party,domain=cilimao.cc
+||cjdby.net/Public/home/images/advImg/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 1010jiajiao.com##.bdgg
@@ -10369,7 +10369,6 @@ baidu.com,cssmoban.com##.page-banner
 xizi.com##.pageAD1
 cngold.org##.pageAdv
 baidu.com##.pageLeftFixedAD
-cjdby.net##.page_right_ad
 ifeng.com##.pao_ad_02
 ifeng.com##.pao_ad_03
 ifeng.com##.pao_mid
