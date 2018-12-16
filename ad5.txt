@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6SRJ+8avNYrWNO58ygTcYw
+! Checksum: h2EmrPYy3riwsKyXCmZskg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812170000
-! Last Modified: 2018年12月17日 00:00
+! Version: 201812170730
+! Last Modified: 2018年12月17日 07:30
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -20004,6 +20004,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracking/user_sync_widget?
 /tracking/views/*
 /tracking/widget/*
+/tracking/xhl?
 /tracking/xtcore.
 /tracking202/*
 /Tracking?id=
@@ -20051,6 +20052,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /trackingService.min.js
 /trackingService/*
 /trackingVtm.
+/trackinpage.js
 /trackIt.js
 /trackit.php?
 /trackit.pl?
@@ -24806,6 +24808,7 @@ _mongo_stats/
 ||alibaba.com/ts?
 ||alipay.com/service/clear.png?
 ||aliyun.com/actionlog/
+||aliyuncs.com/r.png?
 ||allanalpass.com/track/
 ||alooma.com/track/
 ||alooma.io/track/?
@@ -30905,6 +30908,9 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||prisjakt.nu/js.php?p=trafikfonden
 ||prod-metro-collector.cloudapp.net^
 ||stat.nyheter24.se^
+||dek-d.com^*/analytic.js
+||ta.sanook.com^
+||thairath.co.th/event/
 ||c.gazetevatan.com^
 ||haberler.com/dinamik/
 ||p.milliyet.com.tr^
