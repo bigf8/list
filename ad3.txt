@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 09ea8Gju0zRSh8mt4XtEcw
+! Checksum: MMTv2qGWd5XowUd4AN6joA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201812171830
-! Last Modified: 2018年12月17日 18:30
+! Version: 201812171900
+! Last Modified: 2018年12月17日 19:00
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -13372,6 +13372,7 @@ jandan.net,jintang114.org,makepolo.com,wayqq.cn##iframe[src*="?"]
 ||zxw51.com^$third-party
 ||zzc.9939.com^
 !#Btkitty
+cililianbt.net,maomaobt.org,sousoucili.com,zhainanzhongzi.net##.photos
 ##.footer > #box[style="width:100%;height:100%;position:fixed;top:0"]
 ##a[href*=".gotourls.bid"]
 ##a[href^="http://yunbofangbt."]
