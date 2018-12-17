@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RVINIKzwtC1SlnhG0URVMA
+! Checksum: DaI4heJalf8dhbcevRp2Tw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201812171800
-! Last Modified: 2018年12月17日 18:00
+! Version: 201812171830
+! Last Modified: 2018年12月17日 18:30
 ! Homepage: https://adf.ming92.tk
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -13808,6 +13808,7 @@ jandan.net,jintang114.org,makepolo.com,wayqq.cn##iframe[src*="?"]
 ##a[href^="http://yunbofangbt."]
 |http*://$script,subdocument,third-party,xmlhttprequest,domain=alicili.me|btdiggs.net|btdiggs.xyz|btlibrary.xyz|cilidaquan.co|cilidb.net|cilifanhao.me|cnbtkitty.me|cnbtkitty.pw|cnbtspread.co|cntorrentkitty.net|diggbt.cc|diggbts.xyz|feifeibt.cc|kikibt.me|nanrenbt.cc|renrencili.co|savebt.me|storebt.co|storetorrents.com|torrentsearchweb.pw|torrentsearchweb.ws|zhainanbt.cc|zhongzicili.one|zhongzifuli.co|zhongzishenqi.me|zhongzishenqi.net
 ||0377shujuhuifu.top^
+||xvyljkr.com^
 ||0531mnk.net^
 ||2013sh.com^
 ||210189.com^
