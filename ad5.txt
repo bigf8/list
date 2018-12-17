@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JW5yLEd6k3+W+sDhDyDYQw
+! Checksum: izTxLcy2zKa4QRcN4zb9ew
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201812171430
-! Last Modified: 2018年12月17日 14:30
+! Version: 201812171500
+! Last Modified: 2018年12月17日 15:00
 ! Homepage: https://adf.ming92.tk
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -30329,7 +30329,9 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||topnews.de^*/aws.cgi?
 ||tp.deawm.com^
 ||tr.werkenntwen.de^
+||track.bernerzeitung.ch^
 ||track.cinestar.de^
+||track.derbund.ch^
 ||trackerstatistik.init-ag.de^
 ||tracking.autoscout24.com^
 ||tracking.beilagen-prospekte.de^
